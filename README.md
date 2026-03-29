@@ -17,6 +17,6 @@ This project models cities as nodes and roads as weighted edges in a graph. Diff
 - Graph Algorithms
 
 ## References
--Python Documentation 
--NetworkX Documentation 
--GeeksforGeeks (Search Algorithms) 
+- Python Documentation 
+- NetworkX Documentation 
+- GeeksforGeeks (Search Algorithms) 
